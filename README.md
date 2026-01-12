@@ -1,5 +1,5 @@
 # Mistake-detection
-3 - Mistake detection
+
 This project has been developed by Silberman De Mello Julia, Fusero Filippo, Cafaro Eleonora for the course Data Analysis and Artificial Intelligence (DAAI) 2025/2026. It focuses on error recognition in procedural activities, specifically cooking tasks, using egocentric (first-person) video data from the CaptainCook4D benchmark (pp. 1, 3). We explore various deep learning architectures and feature backbones to identify deviations from standard procedures (p. 1).
 
 # Overview & Motivation
