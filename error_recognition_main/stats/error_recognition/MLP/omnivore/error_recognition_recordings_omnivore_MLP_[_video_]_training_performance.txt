@@ -1,0 +1,2 @@
+Epoch, Train Loss, Test Loss, Precision, Recall, F1, AUC
+1, 1.081240, 1.410393, 1.440728, 0.000000, 0.000000, 0.000000, 0.523738
